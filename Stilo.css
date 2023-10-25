@@ -146,10 +146,6 @@ body {
   .article, .side {
     flex-basis: 100%;
   }
-  .article img, .recetas img {
-    width: 100%;
-    height: auto;
-  }
   .footer {
     flex-basis: 100%;
   }
